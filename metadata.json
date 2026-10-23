@@ -1,0 +1,6 @@
+{
+  "name": "The Brew Room | Garden Café in Mylapore, Chennai",
+  "description": "Discover The Brew Room (தி ப்ரூ ரூம்), an editorial garden café at Savera Hotel in Mylapore, Chennai. Thoughtful plates, comforting coffee and unhurried moments surrounded by greenery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
